@@ -1,4 +1,4 @@
-# ShawnNotFound-s-Wechat-Emoji-System
+# ShawnNotFound' s-Wechat-Emoji-System
 A program to send Emoji on wechat easier. 一个快捷发送微信表情的程序
 
 ※请在使用时保持中文输入法且确保输入法可以使用Shift更换中英文，否则无法正常运行！！！
